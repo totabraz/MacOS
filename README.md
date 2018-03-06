@@ -1,7 +1,7 @@
 # MacOS
 Basic setup to create a better workspace
 # Creating shortcuts
-## Open terminal from windows;
+## Open terminal from Finder
 
 *System Preferences > Keyboard > Shortcuts > Service* 
 
